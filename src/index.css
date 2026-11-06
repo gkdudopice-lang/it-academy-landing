@@ -1,0 +1,6 @@
+/* CDN 방식을 사용하므로 외부 import 문을 모두 제거합니다 */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f172a;
+}
